@@ -35,10 +35,13 @@ Feel free to check out my resume or get in touch:
 <h3>A few things about me:</h3>
 - Learning the Node / Express / MongoDB stack <br/>
 - Learning Next.js <br/>
+- Learning Typescript <br/>
 - ⚡ EV Specs <br/>
-- 💬 Focus Interval <br/>
+- 📝 Focus Interval <br/>
+- 💡 Lightship <br/>
 - 🌴 I grew up in Honolulu <br/>
-- ✏🏠 I started my career as an architect
+- 🌦 I live in Seattle <br/>
+- ✏ I started my career as an architect
 
 
 [linkedIn]:https://www.linkedin.com/in/read-langworthy/
